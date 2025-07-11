@@ -1,6 +1,6 @@
 # COVID-19 Global Analysis Dashboard
 
-![COVID-19 Dashboard Thumbnail](Images/covid_dashboard_thumbnail.png)
+![Tableau Dashboard Screenshot](Images/tableau_dashboard_final.png)
 
 This project presents a comprehensive data analysis and visualization of the COVID-19 pandemic using SQL Server and Tableau. It explores global trends in infections, death rates, and vaccination progress to provide meaningful insights into how different regions were impacted.
 
