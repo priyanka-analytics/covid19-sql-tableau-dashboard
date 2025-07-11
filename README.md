@@ -77,6 +77,6 @@ Graduate Student | Data Analyst | BI Enthusiast
 ---
 
 You can use this version in your GitHub README.  
-Let me know once you’ve updated it — and then we’ll move on to publishing your Medium blog!
+Let me know once you’ve updated it and then we’ll move on to publishing your Medium blog!
 
 
