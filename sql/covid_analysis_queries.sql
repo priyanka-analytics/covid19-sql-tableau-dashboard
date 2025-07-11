@@ -1,0 +1,1 @@
+-- SQL analysis queries used in the COVID-19 dashboard project
